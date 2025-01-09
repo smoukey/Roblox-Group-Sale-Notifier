@@ -46,7 +46,7 @@ def send_webhook(data, pending_robux):
 Username: {username}
 Product Name: {product_name}
 Product Price: {product_price} Robux
-    ```
+```
     """
     
     message = {
